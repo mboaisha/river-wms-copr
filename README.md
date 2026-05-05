@@ -8,3 +8,9 @@ Will go off the list in river's wiki: https://codeberg.org/river/wiki/src/branch
 ## How to use
 
 > TODO
+
+## Plans
+- For now, I will focus on:
+  - `ashrwm`
+  - `canoe`
+  - `rill`
